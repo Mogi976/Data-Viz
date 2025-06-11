@@ -1,16 +1,16 @@
-# Data-Viz
+# Python Assignments (2025)
 
-This project practices object-oriented programming and basic data visualization using Python.  
-We created custom `Book` and `Article` classes, added inventory methods, and used loops to display item summaries.
+This repository contains all the programming assignments from my Python class.  
+Each folder is organized by week or topic.
 
-## Features
-- `set_total_inventory()` and `get_total_inventory()` methods
-- `title_year()` returns formatted book/article title with year
-- `sold_one()` tracks inventory changes
-- Final loop summarizes all objects in a store-like list
+## 📁 Folder Guide
 
-## Technologies
+- `week01_intro`: Introduction to Python, variables, loops
+- `week02_oop`: Object-Oriented Programming (Book and Article classes)
+- `week03_visualization`: Data visualization with matplotlib
+- `final_project`: Final project code and write-up
+
+## 🛠 Tech Used
 - Python 3.x
-
-## Notes
-Assignment instructions are saved in `instructions.txt`
+- Jupyter Notebook
+- matplotlib, pandas (for later weeks)
